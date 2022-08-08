@@ -19,8 +19,11 @@ div{
     font-size: 20px;
     text-align: center;
 }
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
 .logo{
-    display: block;
     width: 20%;
     border-radius: 50%;
     border: solid #00b86c;
